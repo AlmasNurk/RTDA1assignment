@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "08:00",
+    "route": "AITU-Campus-Residence",
+    "bus": "B01",
+    "passengers": 18,
+    "speed_kmh": 31,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:01",
+    "route": "AITU-Campus-Residence",
+    "bus": "B02",
+    "passengers": 22,
+    "speed_kmh": 28,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:02",
+    "route": "AITU-Campus-Residence",
+    "bus": "B01",
+    "passengers": 21,
+    "speed_kmh": 29,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:03",
+    "route": "AITU-Campus-Residence",
+    "bus": "B02",
+    "passengers": 25,
+    "speed_kmh": 27,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:04",
+    "route": "AITU-Campus-Residence",
+    "bus": "B01",
+    "passengers": 24,
+    "speed_kmh": 0,
+    "status": "STOPPED"
+  },
+  {
+    "timestamp": "08:05",
+    "route": "AITU-Campus-Residence",
+    "bus": "B02",
+    "passengers": 26,
+    "speed_kmh": 30,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:06",
+    "route": "AITU-Campus-Residence",
+    "bus": "B01",
+    "passengers": 23,
+    "speed_kmh": 32,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:07",
+    "route": "AITU-Campus-Residence",
+    "bus": "B02",
+    "passengers": 28,
+    "speed_kmh": 26,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:08",
+    "route": "AITU-Campus-Residence",
+    "bus": "B01",
+    "passengers": 27,
+    "speed_kmh": 25,
+    "status": "ON_ROUTE"
+  },
+  {
+    "timestamp": "08:09",
+    "route": "AITU-Campus-Residence",
+    "bus": "B02",
+    "passengers": 30,
+    "speed_kmh": 24,
+    "status": "ON_ROUTE"
+  }
+]
